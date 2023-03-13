@@ -169,6 +169,11 @@ body
         position: static;
         transform: rotate(0);
     }
+    
+    .col-img
+    {
+        padding: 0;
+    }
 
     #title
     {
